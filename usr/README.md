@@ -1,4 +1,4 @@
-# couldai_user_app
+# Goku Infinity Battleground
 
 A new Flutter project.
 
